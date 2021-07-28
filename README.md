@@ -1,2 +1,2 @@
 # drakon-proyect
-es una idea para un software de seguridad de database
+solo es un simplle proyecto
